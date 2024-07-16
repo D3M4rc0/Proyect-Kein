@@ -1,0 +1,64 @@
+#crud-usuarios {
+    padding: 20px;
+}
+
+#crud-usuarios h2 {
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+
+#form-usuario {
+    margin-bottom: 30px;
+}
+
+#form-usuario .form-control {
+    margin-bottom: 15px;
+}
+
+#form-usuario label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+
+#form-usuario input, #form-usuario select {
+    width: 100%;
+    padding: 8px;
+    box-sizing: border-box;
+}
+
+#form-usuario button {
+    padding: 10px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#form-usuario button:hover {
+    background-color: #0056b3;
+}
+
+#list-table-usuarios {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+#list-table-usuarios th, #list-table-usuarios td {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#list-table-usuarios th {
+    background-color: #f2f2f2;
+    text-align: left;
+}
+
+#list-table-usuarios tbody tr:nth-child(even) {
+    background-color: #f9f9f9;
+}
+
+#list-table-usuarios tbody tr:hover {
+    background-color: #f1f1f1;
+}
+

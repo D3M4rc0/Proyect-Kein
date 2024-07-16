@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gestión de Pedidos</title>
+    <link rel="stylesheet" href="/dashboard/css/pedidos.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+</head>
+<body>
+    <section id="crud-pedidos">
+        <h2>Gestión de Pedidos</h2>
+        <form id="form-pedido">
+            <div class="form-control">
+                <label for="id_usuario">ID Usuario</label>
+                <input type="number" name="id_usuario" id="id_usuario">
+            </div>
+            <div class="form-control">
+                <label for="id_venta">ID Venta</label>
+                <input type="number" name="id_venta" id="id_venta">
+            </div>
+            <div class="form-control">
+                <label for="estado">Estado</label>
+                <select name="estado" id="estado">
+                    <option value="Pendiente">Pendiente</option>
+                    <option value="Enviado">Enviado</option>
+                    <option value="Entregado">Entregado</option>
+                </select>
+            </div>
+            <div class="form-control">
+                <label for="direccion_envio">Dirección de Envío</label>
+                <input type="text" name="direccion_envio" id="direccion_envio">
+            </div>
+            <input type="hidden" name="id" id="id-pedido">
+            <button type="button" id="btn-save-pedido">Agregar</button>
+        </form>
+        <h3>Listado de Pedidos</h3>
+        <table id="list-table-pedidos">
+            <thead>
+                <tr>
+                    <th>ID Usuario</th>
+                    <th>ID Venta</th>
+                    <th>Estado</th>
+                    <th>Dirección de Envío</th>
+                    <th>Acciones</th>
+                </tr>
+            </thead>
+            <tbody id="tbody-table-pedidos"></tbody>
+        </table>
+    </section>
+    <script src="/dashboard/js/pedidos.js"></script>
+</body>
+</html>
