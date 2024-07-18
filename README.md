@@ -9,3 +9,11 @@
 5. Ejecuta `run.py` y accede a su URL.
 6. Ejecuta el Live-Server o levanta algún servidor para la carpeta Front-end.
 7. Deberías poder visualizar los diferentes formularios y sus tablas desde el Front-end y ver los datos traídos del Back-end.
+
+## Imágenes del Proyecto:
+
+![Img1](https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-1.jpg | width=300)
+![Img2](https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-2.jpg | width=300)
+![Img3](https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-3.jpg | width=300)
+![Img4](https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-4.jpg | width=300)
+![Img5](https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-5.jpg | width=300)
