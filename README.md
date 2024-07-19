@@ -18,7 +18,7 @@
 <img src="https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-3.jpg" width="600">
 <img src="https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-4.jpg" width="600">
 <img src="https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-4_2.jpg" width="600">
-<img src="https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-5.jpg" width="300">
-<img src="https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-5_1.jpg" width="300">
-<img src="https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-6.jpg" width="300">
-<img src="https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-7.jpg" width="300">
+<img src="https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-5.jpg" width="600">
+<img src="https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-5_1.jpg" width="600">
+<img src="https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-6.jpg" width="600">
+<img src="https://github.com/D3M4rc0/Proyect-Kein/blob/main/Front-end/Proyecto-kein/dashboard/img/Cap-7.jpg" width="600">
